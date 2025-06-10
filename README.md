@@ -10,8 +10,8 @@ This project explores the lyrics of Charli XCX using Natural Language Processing
 - `updated_lyrics.csv`: Raw dataset of Charli XCX lyrics with track titles, disc labels, and full lyrics.
 - `charli_project.ipynb`: Main notebook performing all analyses (preprocessing, vectorization, clustering, and visualization).
 - `semantic_report_hdbscan.png`: Final cluster visualization using HDBSCAN and BERT embeddings.
-- `noise_kmeans_subclusters.png`: Subclustering of HDBSCAN's noise group using K-Means.
-- `report_df.csv`: Classification metrics from Random Forest classifier.
+- `emotion_by_disc`: Bar Graph of sentiment by disc.
+- `tf_idf_and_random_forest`: Additional metrics from Random Forest classifier.
 
 ## 🧠 Methods Used
 
