@@ -31,7 +31,7 @@ This project explores the lyrics of Charli XCX using Natural Language Processing
 - Sentence-BERT embeddings (`all-MiniLM-L6-v2`) to represent song lyrics semantically.
 - UMAP for 2D dimensionality reduction.
 - HDBSCAN for unsupervised clustering to group semantically similar songs.
-- K-Means applied to the HDBSCAN noise cluster (`-1`) to uncover weaker thematic groupings.
+
 
 ## 🖼️ Visualizations
 
